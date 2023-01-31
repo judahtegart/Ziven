@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Ziven'
+theme = "chringel-hugo-theme"
+writeStats = true
+publishDir = "docs"
